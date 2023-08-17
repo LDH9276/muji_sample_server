@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# DB연결
+/dbconn.php
+
+# JWT키 설정
+/JWT_key.env
+
+# 이미지 폴더
+/productimg
+/img
+/files
